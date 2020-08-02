@@ -11,7 +11,7 @@ To build, clone the repo and run jekyll:
 
 ```
 git clone git://github.com/r-kasidit/markdown-cv
-cd md-cv/
+cd markdown-cv/
 jekyll serve
 ```
 
