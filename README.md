@@ -1,13 +1,13 @@
 # markdown-cv 
 
-A jekyll-based markdown CV, Forked from the  markdown CV of [elipapa](https://github.com/elipapa/markdown-cv).
+A jekyll-based markdown CV, Forked จากโปรเจคของ [elipapa](https://github.com/elipapa/markdown-cv).
 
 
 ***
 
-## How to use
+## วิธีใช้
 
-To build, clone the repo and run jekyll:
+โคลน repo นี้ จากนั้น run jekyll:
 
 ```
 git clone git://github.com/r-kasidit/markdown-cv
@@ -15,6 +15,6 @@ cd markdown-cv/
 jekyll serve
 ```
 
-Then address browser to locolhost:4000.
+เข้าไปที่ locolhost:4000 ใน web browser
 
 
