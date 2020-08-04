@@ -15,6 +15,6 @@ cd markdown-cv/
 jekyll serve
 ```
 
-เข้าไปที่ locolhost:4000 ใน web browser
+เข้าไปที่ locolhost:4000 ใน web browser และ edit index.md ตามต้องการ
 
 
