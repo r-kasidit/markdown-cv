@@ -15,6 +15,6 @@ cd markdown-cv/
 jekyll serve
 ```
 เเก้ไขข้อมูลใน index.md และ ไฟล์ .css
-เข้าไปที่ locolhost:4000 ใน web browser และ edit index.md ตามต้องการ
+เข้าไปดูผลแบบ live ที่ locolhost:4000 ใน web browser 
 
 
